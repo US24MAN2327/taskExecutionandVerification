@@ -29,3 +29,5 @@ People check and confirm the tone in the analysis and brief summaries.
 If required, they can seek clarification on the results.
 
 Finally, users get to point out other mistakes, which makes the accuracy in execution of subsequent works better and more efficient.
+
+streamlit link:https://taskexecutionandverification-hgyjyyzktghme2gyr8gsgr.streamlit.app
